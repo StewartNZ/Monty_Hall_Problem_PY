@@ -98,6 +98,7 @@ def main(numDoors=0, autoChoice=False, numIterations=0):
         doorProblem(numDoors)
 
 main()
+input()
 
 # for i in range(3, 11):
 #     main(i, True, 20000)
