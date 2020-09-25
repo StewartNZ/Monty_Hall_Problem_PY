@@ -1,4 +1,4 @@
-# variable_change_doors
+# Monty Hall Problem
  Simple Python program that simulates the Monty Hall Problem.
  https://en.wikipedia.org/wiki/Monty_Hall_problem
  
